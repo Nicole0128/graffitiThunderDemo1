@@ -327,7 +327,7 @@ canvas {
 /* 「開始創作」按鈕，用既有的 .btn + .neon-btn */
 #start-btn {
   position: absolute;
-  bottom: 40px;       /* 距離下緣 40px，可自行調整 */
+  bottom: 100px;       /* 距離下緣 40px，可自行調整 */
   left: 50%;
   transform: translateX(-50%);
   z-index: 1001;
